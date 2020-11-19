@@ -1,0 +1,11 @@
+/Users/DreamMachine/rust-playground/hello/first/target/debug/deps/cocoa-c6fc6a4cf87bfbfb.rmeta: /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/lib.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/appkit.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/base.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/foundation.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/quartzcore.rs
+
+/Users/DreamMachine/rust-playground/hello/first/target/debug/deps/libcocoa-c6fc6a4cf87bfbfb.rlib: /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/lib.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/appkit.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/base.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/foundation.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/quartzcore.rs
+
+/Users/DreamMachine/rust-playground/hello/first/target/debug/deps/cocoa-c6fc6a4cf87bfbfb.d: /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/lib.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/appkit.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/base.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/foundation.rs /Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/quartzcore.rs
+
+/Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/lib.rs:
+/Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/appkit.rs:
+/Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/base.rs:
+/Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/foundation.rs:
+/Users/DreamMachine/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.18.5/src/quartzcore.rs:
